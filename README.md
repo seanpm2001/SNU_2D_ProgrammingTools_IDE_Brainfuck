@@ -1,9 +1,10 @@
 
+ 
 ***
 
-# SNU-2D-ProgrammingTools-IDE-<languageNameWithHyphens>
+# SNU-2D-ProgrammingTools-IDE-BrainFuck
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/LanguageLogo.svg)
+![Brainfuck_WideLogo.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Brainfuck_WideLogo.png)
 
 # By:
 
@@ -34,7 +35,7 @@ _🌐 List of languages_
 
 </details>
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrainFuck/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
 
@@ -46,13 +47,13 @@ Translations are done with Google Translate due to limited or no support for the
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#SNU-2D-ProgrammingTools-IDE-<LanguageNameWithHyphens>)
+> [00.1 - Title](#SNU-2D-ProgrammingTools-IDE-BrainFuck)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>)
+[01.0 - Description](#SNU_2D_ProgrammingTools_IDE_BrainFuck)
 
 [02.0 - About](#About)
 
@@ -106,20 +107,23 @@ Translations are done with Google Translate due to limited or no support for the
 
 ***
 
-# SNU_2D_ProgrammingTools_IDE_<LanguageNameWithHyphens>
-The <LanguageName> Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+# SNU_2D_ProgrammingTools_IDE_BrainFuck
+The BrainFuck Programming language IDE submodule for SNU Programming Tools (2D Mode) 
 
 ***
 
 ## About
 
-See above. This repository is the IDE for <LanguageName> that comes with SNUs programming tool set.
+See above. This repository is the IDE for BrainFuck that comes with SNUs programming tool set.
+
+As a challenge, this project will be written entirely in Brainfuck, and will support all implementations of the language AND compile it through a web browser. I won't be able to do this all myself, community support will also be needed.
+
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrainFuck/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -127,15 +131,15 @@ If the project has been forked, the Wiki was likely removed. Luckily, I include 
 
 ## History
 
-Write about this projects history here.
+This project has a short history so far.
 
 ### Pre-history
 
-No pre-history to show for this project.
+On 2021 September 15th, this project was moved to its own repository. It received some work, but was then abandoned for over half a year.
 
 ### Alpha history
 
-No Alpha history to show for this project.
+This project gained traction of interest again when a visiting guest challenged me to write a program in BrainFuck, and I wanted to take the challenge. After some research on 2022 May 22nd on other hobbyists attempts to learn and write in the language, some people said they had to write paper notes, as source code comments were too difficult. I also learnt that there is no standard way of writing brainfuck, so many implementations exist. I now have plans to revitalize my Brainfuck IDE based on these, I will include a separate notepad in the GUI, so that people can write comments, and I will try to support as many (hopefully all) variants of Brainfuck. I obviously will not be able to do this all myself, so I hope to get community support in the future.
 
 ### Beta history
 
@@ -208,7 +212,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of 2021, date, at xx:xx pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 26 commits (As of 2022, Wednesday, May 25th at 7:00 pm PST)
 
 > * 2. No other contributers.
 
@@ -278,9 +282,9 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file A](PROJECT_LANG_1.<projectLanguage1fileExtension))
+[Project language file A](PROJECT_LANG_1.bf)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrainFuck/discussions)
 
 No other resources at the moment.
 
@@ -305,17 +309,17 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-**File type:** `Markdown document (*.md)`
+**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (date)`
+**File version:** `2 (2022, Wednesday, May 25th at 6:57 pm PST)`
 
-**Line count:** `0,415`
+**Line count (including blank lines and compiler line):** `0,447`
 
 ***
 
 ## README version history
 
-Version 1 (Date)
+Version 1 (Unknown date)
 
 > Changes:
 
@@ -395,13 +399,41 @@ Version 1 (Date)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (2022, Wednesday, May 25th at 6:57 pm PST)
+
+> Changes:
+
+> * Updated the title section
+
+> * Updated the index
+
+> * Updated the about section
+
+> * Updated the history section
+
+> * Updated the resources section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
