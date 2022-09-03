@@ -28,6 +28,9 @@
 *.bf linguist-detectable=true
 *.bf linguist-documentation=false
 *.bf linguist-language=Brainfuck
+*.b linguist-detectable=true
+*.b linguist-documentation=false
+*.b linguist-language=Brainfuck
 # Makefile (GNU Make)
 *.mk linguist-detectable=false
 *.mk linguist-documentation=false
@@ -101,6 +104,6 @@
 # End of linguist script
 # File info
 # File type: Gitattributes file (*.gitattributes)
-# File version: 2 (2022, Wednesday, May 25th at 6:35 pm PST)
-# Line count (including blank lines and compiler line): 107
+# File version: 3 (2022, Friday, September 2nd at 6:33 pm PST)
+# Line count (including blank lines and compiler line): 110
 # End of script
